@@ -1,0 +1,14 @@
+{
+  "name": "replaceWith",
+  "repo": "cristiandouce/replace-with",
+  "description": "Document replaceWith component.",
+  "version": "0.0.1",
+  "keywords": ["replace", "with", "dom", "element"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
